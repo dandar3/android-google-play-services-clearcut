@@ -11,7 +11,7 @@ https://maven.google.com/com/google/android/gms/play-services-clearcut/15.0.0/pl
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/15.0.0)
 
 **References:**
-- https://developers.google.com/android/guides/releases#june_2017_-_version_110
+- https://developers.google.com/android/guides/releases#april_12_2018_-_version_1500
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
